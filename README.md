@@ -1,24 +1,31 @@
 Live Project : https://housepricepredictor-gbdlhk79d9ipgvrsbzzcy7.streamlit.app/
 
-This project is a simple and interactive Machine Learning web app that predicts house prices based on different property features such as location, house type, land area, building condition, and construction year.
+🏠 House Price Predictor (ML Project)
 
-The main goal of this project is to automate the traditional house pricing process using data-driven predictions, making it faster and more consistent compared to manual estimation.
+This is a simple and interactive Machine Learning web app that predicts house prices based on property details like location, house type, land area, condition, and construction year.
 
+The goal of this project is to automate house price estimation using data and make predictions faster, easier, and more consistent.
 
+✨ How this project was built
+Collected and understood housing dataset with multiple property features
+Cleaned and preprocessed the data for machine learning
+Converted categorical values into numerical format
+Trained a Linear Regression model to learn price patterns
+Built a user-friendly Streamlit web app for real-time predictions
 
-How I Built This Project💡
+🚀 Features
+Easy-to-use interface
+Simple dropdown-based inputs
+Instant house price prediction
+Beginner-friendly design
+Real-time ML results
+🛠 Tools & Technologies
+Python
+Pandas & NumPy
+Scikit-learn (Linear Regression)
+Streamlit
+Git & GitHub
 
-I started by understanding the dataset containing historical house sales information. The data included features like:
+🎯 Project Goal
 
-Type of house
-Area zoning
-Lot size
-Building type
-Condition of the house
-Year built
-
-After understanding the data, I performed data cleaning and preprocessing to handle categorical values and convert them into numerical format so that the machine learning model could understand them.
-
-Then I trained a Linear Regression model, which learns the relationship between house features and price. The model was trained on historical data so it can predict prices for new inputs.
-
-Finally, I built a Streamlit web application to make the model user-friendly. This allows users to select house features from dropdowns and instantly get a predicted price.
+To understand how real-world machine learning systems work — from data processing to model building and deployment as a web application.
