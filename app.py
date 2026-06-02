@@ -191,7 +191,7 @@ st.markdown("<div class='label'>Year Built</div>", unsafe_allow_html=True)
 YearBuilt = st.selectbox("", list(range(1900, 2026)))
 
 
-if st.button("PRIDICT PRICE"):
+if st.button("PREDICT PRICE"):
 
     input_data = np.array([[
         MSSubClass,
