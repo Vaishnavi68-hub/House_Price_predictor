@@ -1,4 +1,4 @@
-Live Project : https://housepricepredictor-gbdlhk79d9ipgvrsbzzcy7.streamlit.app/
+
 
 🏠 House Price Predictor (ML Project)
 
@@ -36,4 +36,6 @@ Git & GitHub
 To automate house price prediction using Machine Learning
 To understand real-world regression problems
 To build a simple and user-friendly web application
+
+Live Project : https://housepricepredictor-gbdlhk79d9ipgvrsbzzcy7.streamlit.app/
 
